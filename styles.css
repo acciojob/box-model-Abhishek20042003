@@ -15,21 +15,21 @@
 .red{
 	height: 80px;
 	width: 80px;
-	background-color: green;
+	background-color: rgb(0, 128, 0);
 	border-radius: 50px;
 	
 }
 .green{
 	height: 80px;
 	width: 80px;
-	background-color: yellow;
+	background-color: rgb(255, 255, 0);
 	border-radius: 50px;
 	
 }
 .yellow{
 	height: 80px;
 	width: 80px;
-	background-color: red;
+	background-color: rgb(255, 0, 0);
 	border-radius: 50px;
 	
 }
